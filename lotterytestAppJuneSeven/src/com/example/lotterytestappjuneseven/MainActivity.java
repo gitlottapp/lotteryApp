@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 	//comments by harminder
+	//comments by amardeep
 	EditText editText01;
 	EditText editText02;
 	EditText editText03;
