@@ -7,7 +7,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-	
+	//comments by harminder
 	EditText editText01;
 	EditText editText02;
 	EditText editText03;
